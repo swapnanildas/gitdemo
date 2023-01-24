@@ -1,9 +1,4 @@
 #DEMO Proj
 ## This is a modification to the file
+This surely will create a conflict
 
-<<<<<<< HEAD
-I hope this isn't musch of a problem
-
-=======
-This is bound to create trouble
->>>>>>> very-bad
